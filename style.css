@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body{
+    background-color: gainsboro;
+}
+label{
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+select{
+    width: 200px;
+    height: 50px;
+    margin-left: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+.box1{
+    width: 600px;
+    height: 930px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.box1 img{
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.box1 h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.text_1{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.but1 a{
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.but1{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 230px;
+    border-radius: 10px;
+}
+.but1 a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.box2{
+    width: 700px;
+    height: 850px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.box2 img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.box2 h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.text_2{
+    width: 560px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.but2 a{
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.but2{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+.but2 a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.box3{
+    width: 700px;
+    height: 900px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.box3 img{
+    width: 600px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+}
+.box3 h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.text_3{
+    width: 560px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.but3 a{
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.but3{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+.but3 a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.box4{
+    width: 900px;
+    height: 900px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.box4 img{
+    width: 700px;
+    height: 450px;
+    display: block;
+    margin: 0 auto;
+}
+.box4 h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.text_4{
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.but4 a{
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.but4{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 370px;
+    border-radius: 10px;
+}
+.but4 a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.box5{
+    width: 600px;
+    height: 930px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.box5 img{
+    width: 400px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.box5 h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.text_5{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.but5 a{
+    padding: 20px 40px;
+    background-color: rgba(0, 0, 255, 0);
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.but5{
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 225px;
+    border-radius: 10px;
+}
+.but5 a:hover{
+    background-color: white;
+    color: black;
+}
